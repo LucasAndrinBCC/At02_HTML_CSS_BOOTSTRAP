@@ -1,0 +1,44 @@
+.rounded-top-left {
+    border-top-left-radius: var(--bs-border-radius);
+}
+
+.rounded-top-right {
+    border-top-right-radius: var(--bs-border-radius);
+}
+
+.rounded-top-right {
+    border-top-right-radius: var(--bs-border-radius);
+}
+
+.rounded-bottom-left {
+    border-bottom-left-radius: var(--bs-border-radius);
+}
+
+.rounded-bottom-right {
+    border-bottom-right-radius: var(--bs-border-radius);
+}
+
+.img-navbar {
+    height: 2.5rem;
+}
+
+.bg-indigo {
+    background-color: var(--bs-indigo) !important;
+}
+
+.btn-indigo  {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: var(--bs-indigo);
+    --bs-btn-border-color: var(--bs-indigo);
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: var(--bs-purple);
+    --bs-btn-hover-border-color: var(--bs-purple);
+    --bs-btn-focus-shadow-rgb: 66,70,73;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: var(--bs-purple);
+    --bs-btn-active-border-color: var(--bs-indigo);
+    --bs-btn-active-shadow: inset 0 3px 5px var(--bs-purple);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: var(--bs-indigo);
+    --bs-btn-disabled-border-color: var(--bs-indigo);
+}
